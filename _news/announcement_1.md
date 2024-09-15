@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *"Hue: A User-Adaptive Parser for Hybrid Logs"* was accepted by **ESEC/FSE'2023**.
+Our paper Hue: A User-Adaptive Parser for Hybrid Logs is accepted by ESEC/FSE2023.

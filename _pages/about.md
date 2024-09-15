@@ -1,19 +1,20 @@
 ---
 layout: about
-title: About
-
+title: about
+permalink: /
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: pic.jpg
-  image_circular: true # crops the image to make it circular
-  address: >
+  image_circular: false # crops the image to make it circular
+  more_info: >
     <p>zhouruixing at link.cuhk.edu.cn</p>
     <p>Office: TD 411</p>
 
-news: true  # includes a list of news items
-publications: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
 📚 <b>Bio</b>: Zhouruixing Zhu is a PhD student at <a href="https://sds.cuhk.edu.cn/">The Chinese University of Hong Kong, Shenzhen (CUHKSZ)</a>, advised by <a href="https://pinjiahe.github.io/">Prof. Pinjia He</a>. She obtained her masters from The Chinese University of Hong Kong, Shenzhen, and bachelors from The Nanjing University of Aeronautics and Astronautics (NUAA).

@@ -21,7 +21,9 @@ layout: default
       {% endif %}
     </header>
 
-    <article>
+    {% pdf ""{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" no_link %}
+
+      <!-- <article>
       <div class="cv">
         {% for entry in site.data.cv %}
           <a class="anchor" id="{{ entry.title }}"></a>
@@ -45,7 +47,7 @@ layout: default
           </div>
         {% endfor %}
       </div>
-    </article>
+    </article> -->
   </div>
 {% else %}
   <div class="post">

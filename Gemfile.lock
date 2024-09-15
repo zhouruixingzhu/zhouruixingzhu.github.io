@@ -235,6 +235,7 @@ DEPENDENCIES
   jekyll-tabs
   jekyll-toc
   jekyll-twitter-plugin
+  jekyll-pdf-embed
   jemoji
   mini_racer
   unicode_utils

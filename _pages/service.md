@@ -8,10 +8,10 @@ nav_order: 2
 ---
 
 ### Academic Service
-<b>@Program Chair</b> 
+**@Program Chair**
 - PC of the Industry Track: ASE 2024
 
-<b>@Sub-Reviewer</b> 
+**@Sub-Reviewer**
 - Conferences:
   - ICSE 2025, 2024
   - FSE 2023, 2024
@@ -20,7 +20,3 @@ nav_order: 2
   - ISSRE 2023
 - Journals:
   - APSEC 2024
-
-
-<!-- ### Teaching -->
-<!-- <b>@Teaching Assistant</b>   -->

@@ -21,8 +21,6 @@ nav_order: 2
 - Journals:
   - APSEC 2024
 
-<br>
 
 <!-- ### Teaching -->
-
 <!-- <b>@Teaching Assistant</b>   -->

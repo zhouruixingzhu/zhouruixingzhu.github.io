@@ -9,8 +9,9 @@ profile:
   image: pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>zhouruixingzhu at link.cuhk.edu.cn</p>
+    <p>Email: zhouruixingzhu@link.cuhk.edu.cn</p>
     <p>Office: TD-411</p>
+    <p>  </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 ### Academic Service
-**@Program Chair**
+**@Program Committee**
 - PC of the Industry Track: ASE 2024
 
 **@Sub-Reviewer**

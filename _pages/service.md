@@ -11,6 +11,10 @@ nav_order: 3
 **@Program Committee**
 - PC of the Industry Track: ASE 2024
 
+**@Reviewer**
+- Journals
+  - ACM Transactions on Software Engineering and Methodology (TOSEM)
+
 **@Sub-Reviewer**
 - Conferences:
   - ICSE 2025, 2024

@@ -14,6 +14,7 @@ nav_order: 3
 **@Reviewer**
 - Journals
   - ACM Transactions on Software Engineering and Methodology (TOSEM)
+  - IEEE Transactions on Software Engineering (TSE)
 
 **@Sub-Reviewer**
 - Conferences:

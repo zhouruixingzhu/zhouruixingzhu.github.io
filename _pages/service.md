@@ -9,7 +9,8 @@ nav_order: 3
 
 ### Academic Service
 **@Program Committee**
-- PC of the Industry Track: ASE 2024
+- Shadow PC (Research Track): ICSE 2026
+- PC (Industry Track): ASE 2024
 
 **@Reviewer**
 - Journals
@@ -18,10 +19,18 @@ nav_order: 3
 
 **@Sub-Reviewer**
 - Conferences:
-  - ICSE 2024, 2025
+  - ICSE 2024, 2025, 2026
   - FSE 2023, 2024, 2025
-  - ASE 2024
+  - OOPSLA 2025
+  - ASE 2024, 2025
   - ISSTA 2024, 2025
   - ISSRE 2023
 - Journals:
   - APSEC 2024
+
+
+
+### Teaching
+**@CUHK-SZ**
+- Teaching Assistant
+  - DDA2001 Introduction to Data Science

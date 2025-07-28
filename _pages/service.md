@@ -33,4 +33,4 @@ nav_order: 3
 ### Teaching
 **@CUHK-SZ**
 - Teaching Assistant
-  - DDA2001 Introduction to Data Science
+  - DDA2001 Introduction to Data Science (Spring 2025)

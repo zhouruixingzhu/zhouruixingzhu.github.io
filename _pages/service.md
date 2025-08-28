@@ -34,3 +34,4 @@ nav_order: 3
 **@CUHK-SZ**
 - Teaching Assistant
   - DDA2001 Introduction to Data Science (Spring 2025)
+  - CSC1001 Introduction to Computer Science: Programming Methodology (Fall 2025)

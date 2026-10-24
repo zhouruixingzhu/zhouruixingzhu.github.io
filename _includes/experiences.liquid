@@ -1,0 +1,15 @@
+<div class="experience-list">
+  <p><strong>Intern:</strong></p>
+  <ul>
+    {% for experience in site.data.experience.intern %}
+      <li>{{ experience.dates }}, {{ experience.company }}</li>
+    {% endfor %}
+  </ul>
+
+  <p><strong>Full-time:</strong></p>
+  <ul>
+    {% for experience in site.data.experience.full_time %}
+      <li>{{ experience.dates }}, {{ experience.company }}</li>
+    {% endfor %}
+  </ul>
+</div>

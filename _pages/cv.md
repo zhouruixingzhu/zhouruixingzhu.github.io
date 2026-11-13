@@ -2,9 +2,10 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: false
-nav_order: 3
-cv_pdf: CV_ZHUZhouruixing.pdf
+nav: true
+nav_order: 5
+nav_url: /assets/pdf/CV_ZhouruixingZHU_CUHKSZ.pdf
+cv_pdf: CV_ZhouruixingZHU_CUHKSZ.pdf
 description:
 toc:
   sidebar: left
